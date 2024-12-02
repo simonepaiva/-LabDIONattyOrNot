@@ -1,16 +1,17 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um vídeo rápido de chamada para um Podcast usando IA generativa, roteiro criado também por IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão
+IA Generativa https://studio.d-id.com/ para sintetização de voz e geração de avatar virtual 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID"  para criar um avatar virtual e voz sintetizada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link do vídeo
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Meu primeiro contato utlizando estas ferramentas e sinto que as IA generativas são o futuro.
